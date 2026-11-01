@@ -70,7 +70,7 @@ medical-image-diagnosis-xai/
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/medical-image-diagnosis-xai.git
+git clone https://github.com/<Mert30>/medical-image-diagnosis-xai.git
 cd medical-image-diagnosis-xai
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
